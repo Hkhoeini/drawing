@@ -1,6 +1,4 @@
 import turtle
-print('slam')
-print('hello')
 metraj , zirbana , otagha = input('metraj koli va zibana va tedade otag ra vared konid : ').split()
 params =[metraj,zirbana,otagha]
 
