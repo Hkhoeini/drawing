@@ -1,5 +1,3 @@
-# mavaredi ke bayad  ezafe  gardad ro comment birai ke dar nazar begirim:
-#
 import turtle
 metraj , zirbana , otagha = input('metraj koli va zibana va tedade otag ra vared konid : ').split()
 params =[metraj,zirbana,otagha]
